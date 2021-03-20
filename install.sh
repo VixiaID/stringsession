@@ -14,7 +14,7 @@ then
    echo "Running script..."
    apt install wget
    pip install pyrogram
-   wget https://raw.githubusercontent.com/otseeserver/stringsession/main/pytostr py
+   wget https://raw.githubusercontent.com/otseeserver/stringsession/main/pyrostr.py
    clear
    python pyrostr.py
 
