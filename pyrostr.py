@@ -11,6 +11,6 @@ with Client(
 api_id=int(input("Enter API ID: ")),
 api_hash=input("Enter API HASH: ")) as pyrogram:
     saved_messages_template = template.format(pyrogram.export_session_string())
-    print("\nGeneratimg Strung Session...\n")
+    print("\nGeneratimg String Session...\n")
     pyrogram.send_message("me", saved_messages_template, parse_mode="html")
     print("Your String Session have been send to your Telgram Saved Messages")
