@@ -1,2 +1,2 @@
-#way to use
+#stringsession
 wget https://raw.githubusercontent.com/otseeserver/stringsession/main/install.sh && bash install.sh
