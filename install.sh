@@ -1,3 +1,4 @@
+clear
 echo ""
 echo "This script for generating string session"
 echo "        ✥•─────────────────•✥           "
